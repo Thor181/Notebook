@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Notebook",
+    "description": "Записная книжка",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "minimum_chrome_version": "46",
+    "permissions": [ "storage" ]
+    
+}
